@@ -13,7 +13,6 @@
 	2. Craving
 	3. Response
 	4. Reward
-
 ### **The Psychology Behind Habits**
 * `Emotions are a signal to change your current state. The problem is that they don't tell you what to do, so we seek the option of least resistance.`
 	* The path of least resistance in all aspects of life is never the best solution.
@@ -21,7 +20,6 @@
 	* Need to identify when the response was incorrect and analyze what the better response should have been.
 * The "path of least resistance" (or "law of least resistance") `refers to the tendency of systems, objects, or individuals to take the easiest or most straightforward path, often avoiding effort or resistance.`
 * `What is immediately rewarded is repeated what is immediately punished is avoided.`
-
 ### **Motivation and Flow**
 * Flow state is an indication of enjoying the current task.
 * Goldilocks law: motivation peaks when humans work on tasks that are right at the edge of their current ability.
@@ -32,7 +30,6 @@
 	* Variable rewards help to add pleasure from repeating the same tasks.
 * `"Successful people feel the same lack of motivation as everyone else. They can just handle the boredom from repeating the same tasks until the next round of motivation comes."`
 * `"Professionals find ways to be endlessly fascinated by doing the same thing over and over."`
-
 ### **Human Psychology and Evolution**
 - **We have out evolved our brains.**
 - Our ability to create desire for food, sex, calm anxiety, socialize, etc. easily and in mass excess have caused us to far out evolve our evolutionary instincts and triggers.
@@ -41,7 +38,6 @@
 - We can socialize now without leaving our house.
 - All of our habits latch onto deeper motivations.
 - Our brains have minimally changed in the last 200,000 years.
-
 ## **Building Better Habits**
 *****
 ### **Creating Good Habits**
@@ -55,7 +51,6 @@
 * You must set aside time periodically to review and revise your habits.
 	* Additionally when trying to add another phase or round of habits.
 * Ultimately you must cultivate your awareness of what you are doing at all times.
-
 ### **Habit Stacks**
 * In order to have my daily 8 oz. Coffee I must first do 10 minutes of meditation.
 	* *Use something you like to reward something you dislike.*
@@ -69,7 +64,6 @@
 	1. Charge Phone from Desk
 	2. Prepare Water & Electrolytes
 	3. Brush Teeth
-
 ### **Eliminating Bad Habits**
 * Make Bad Habits as difficult as possible.
 * `To truly work you must completely eliminate all cues and cravings for said bad habit:`
@@ -77,18 +71,15 @@
 * Limit bad habits to as small of an environment as possible.
 	* Want to reduce Cues.
 * Add as much friction as possible.
-
 ### **Defining Self Control**
 * This bad habit is ingrained in my psychology as a human being.
 	* Is there truly a way to avoid these desires in the short term?
 * We need to make this invisible, undesirable, difficult, and unrewarding.
 * Book for quitting smoking could be useful to identifying all aspects of a negative habit and how to rationalize it is bad for you.
 	* I accept that this habit is very bad for me.
-
 #### **Consistent Sleep**
 - “Insomniacs were instructed to only get into bed when tired. If unable to sleep, stay in a different room until you feel tired.”
 	- Drives the habit of only associating the bedroom with sleeping and with getting into bed with being tired.
-
 #### **Developing my Community**
 - **Moving right away is the right idea.**
 - I need to reinforce the herd habits I want to see in myself. 
@@ -101,12 +92,9 @@
 - All of our habits latch onto deeper motivations.
 	- We cannot eliminate the desire to reproduce, eat, socialize, etc.
 	- We instead must produce an environment and herd that is conductive to how we want to satisfy these needs.
-
-
 #### **Automation**
 - Automation for small parts of habits are super effective but you need to be careful because it causes actions to take zero effort.
 	- Essentially make sure it is the right thing to do.
-
 #### **Acknowledging my Mistakes**
 - I have been in “motion” for years. Actual “action” hasn’t been tracked or prioritized.
 - `“Motion spares us the pain that action brings, but only action brings true pleasure in results.”`
@@ -155,7 +143,6 @@
     - Bending of light: Light rays bend as they pass through a gravitational field. 
     - Gravitational waves: Distortions in spacetime that propagate as ripples, predicted by general relativity. 
     - Black holes: Regions of spacetime where gravity is so strong that nothing, not even light, can escape.
-
 ### **Practical Strategies**
 - We respond well to visual progress.
 	- `Reason for tracking everything.`
@@ -174,7 +161,6 @@
 	- We enjoy what comes naturally to us because it reduces friction.
 		- Regardless anything can be done.
 	- **Where do I get greater returns than the average person?**
-
 #### **Quotes**
 - `The first mistake isn’t what breaks you, it’s when you let yourself get into a downward spiral.`
 - I would rather force myself to learn accountability (owning the situation regardless of the circumstances) than to sign contracts with others for my behavior.
