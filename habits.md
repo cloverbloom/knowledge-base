@@ -1,7 +1,7 @@
 # **Atomic Habits - Organized Notes**
 
 ## **The Science of Habit Formation**
-
+*****
 ### **Habit Fundamentals**
 - Habits develop and atrophy like muscles.
 	- Parts of the brain associated with Habit forming and Addiction grow and die with the individual's habits.
@@ -32,7 +32,7 @@
 - Our brains have minimally changed in the last 200,000 years.
 
 ## **Building Better Habits**
-
+*****
 ### **Creating Good Habits**
 * Reward Good Habits immediately.
 * Constantly revise your current habits to eliminate any friction.
