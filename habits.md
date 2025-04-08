@@ -86,14 +86,6 @@
 	- We cannot eliminate the desire to reproduce, eat, socialize, etc.
 	- We instead must produce an environment and herd that is conductive to how we want to satisfy these needs.
 
-#### **Human Psychology**
-- **We have out evolved our brains.**
-- Our ability to create desire for food, sex, calm anxiety, socialize, etc. easily and in mass excess have caused us to far out evolve our evolutionary instincts and triggers.
-- We want to reproduce at all times.
-- Being proactive to eat an abundance of food would increase survival rates - now we must limit our intake every day.
-- We can socialize now without leaving our house.
-- All of our habits latch onto deeper motivations.
-- Our brains have minimally changed in the last 200,000 years.
 
 #### **Automation**
 - Automation for small parts of habits are super effective but you need to be careful because it causes actions to take zero effort.
