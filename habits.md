@@ -1,6 +1,48 @@
-#### **Habit Stacks**
- * In order to have my daily 8 oz. Coffee I must first do 10 minutes of meditation.
-	 * *Use something you like to reward something you dislike.*
+# **Atomic Habits - Organized Notes**
+
+## **The Science of Habit Formation**
+
+### **Habit Fundamentals**
+- Habits develop and atrophy like muscles.
+	- Parts of the brain associated with Habit forming and Addiction grow and die with the individual's habits.
+- **Repetition is the most important thing**
+	- Add reps to habits you want to keep.
+	- Stop practicing habits you want to lose.
+- **All Habits have stages**
+	1. Cue
+	2. Craving
+	3. Response
+	4. Reward
+
+### **The Psychology Behind Habits**
+* `Emotions are a signal to change your current state. The problem is that they don't tell you what to do, so we seek the option of least resistance.`
+	* The path of least resistance in all aspects of life is never the best solution.
+	* `The shortcut is always the longest path.`
+	* Need to identify when the response was incorrect and analyze what the better response should have been.
+* The "path of least resistance" (or "law of least resistance") `refers to the tendency of systems, objects, or individuals to take the easiest or most straightforward path, often avoiding effort or resistance.`
+* `What is immediately rewarded is repeated what is immediately punished is avoided.`
+
+### **Human Psychology and Evolution**
+- **We have out evolved our brains.**
+- Our ability to create desire for food, sex, calm anxiety, socialize, etc. easily and in mass excess have caused us to far out evolve our evolutionary instincts and triggers.
+- We want to reproduce at all times.
+- Being proactive to eat an abundance of food would increase survival rates - now we must limit our intake every day.
+- We can socialize now without leaving our house.
+- All of our habits latch onto deeper motivations.
+- Our brains have minimally changed in the last 200,000 years.
+
+## **Building Better Habits**
+
+### **Creating Good Habits**
+* Reward Good Habits immediately.
+* Constantly revise your current habits to eliminate any friction.
+* For habits you struggle in creating:
+	* ex. no positive rewards to attach, dislike learning the habit, etc.
+	* `Start small - ex. only do 2 minutes of meditation per day and increase each week or month.`
+
+### **Habit Stacks**
+* In order to have my daily 8 oz. Coffee I must first do 10 minutes of meditation.
+	* *Use something you like to reward something you dislike.*
 * My Morning Habit Stack is:
 	1. Wakeup
 	2. Use Bathroom
@@ -12,14 +54,7 @@
 	2. Prepare Water & Electrolytes
 	3. Brush Teeth
 
-#### **Creating Good Habits**
-* Reward Good Habits immediately.
-* Constantly revise your current habits to eliminate any friction.
-* For habits you struggle in creating:
-	* ex. no positive rewards to attach, dislike learning the habit, etc.
-	* `Start small - ex. only do 2 minutes of meditation per day and increase each week or month.`
-
-#### **Eliminating Bad Habits**
+### **Eliminating Bad Habits**
 * Make Bad Habits as difficult as possible.
 * `To truly work you must completely eliminate all cues and cravings for said bad habit:`
 	* Removed and blocked all forms of social media and adult content from iPhone.
@@ -27,7 +62,7 @@
 	* Want to reduce Cues.
 * Add as much friction as possible.
 
-#### **Defining Self Control**
+### **Defining Self Control**
 * This bad habit is ingrained in my psychology as a human being.
 	* Is there truly a way to avoid these desires in the short term?
 * We need to make this invisible, undesirable, difficult, and unrewarding.
