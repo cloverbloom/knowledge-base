@@ -148,7 +148,7 @@
     - Gravitational waves: Distortions in spacetime that propagate as ripples, predicted by general relativity. 
     - Black holes: Regions of spacetime where gravity is so strong that nothing, not even light, can escape.
 
-#### **Strategies**
+### **Practical Strategies**
 - We respond well to visual progress.
 	- `Reason for tracking everything.`
 	- ex. Visual progress like moving paper clips for a certain number of tasks you need to do per day.
@@ -166,7 +166,6 @@
 	- We enjoy what comes naturally to us because it reduces friction.
 		- Regardless anything can be done.
 	- **Where do I get greater returns than the average person?**
-- 
 
 #### **Quotes**
 - `The first mistake isn’t what breaks you, it’s when you let yourself get into a downward spiral.`
