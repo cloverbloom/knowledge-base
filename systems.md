@@ -8,11 +8,11 @@
 
 * Q4: Sep 28th to Dec 27th
 
-* Includes 13th Week for action review, consolidation, celebration and refreshing yourself
+* Includes 13th Week for action review, consolidation, celebration and reset
 
 	* Identify any shortcomings during this period and celebrate what was accomplished
 	  
-	- [ ] ==Create a checklist for each 13th Week (include in 12-W Tracker)==
+	- [ ] Create a checklist for each 13th Week (include in 12-W Tracker)
 
 # [The 12-W Year]
 ### [Core Concepts]
