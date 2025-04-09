@@ -122,6 +122,32 @@
 	- Lock in your current decision before you get a chance to regret it.
 - Sensory benefits like smells or sensations are very effective in engaging cues.
 - `What is immediately rewarded is repeated what is immediately punished is avoided.`
+
+## **Practical Strategies**
+*****
+### **How to Track Improvements**
+- We respond well to visual progress.
+	- `Reason for tracking everything.`
+	- ex. Visual progress like moving paper clips for a certain number of tasks you need to do per day.
+		- **Use this for Job applications.**
+- **Using a Paper Planner**
+	- This is my preferred method for time tracking, reviewing my day, and planning new strategies to improve my schedules.
+	- Use this instead of an online calendar.
+- **Make a daily habit to come up with one business idea per day.**
+- **The Human brain is drawn to progress:**
+	- Likely because in the wild it is hard to track.
+	- This is why using a Habit Tracker or in general tracking anything that **needs** to be done is so impactful.
+		- Running a company or group use measurement to define goals and people will meet them.
+- **Finding what I am naturally good at and excites me is the easy way to develop good habits and see progress.**
+	- We all naturally have habits that work best with our personalities.
+	- We enjoy what comes naturally to us because it reduces friction.
+		- Regardless anything can be done.
+	- **Where do I get greater returns than the average person?**
+#### **Quotes**
+- `The first mistake isn’t what breaks you, it’s when you let yourself get into a downward spiral.`
+- I would rather force myself to learn accountability (owning the situation regardless of the circumstances) than to sign contracts with others for my behavior.
+## **Extras**
+*****
 #### **The Law of Relativity**
 * **Special Relativity**
 	- **Postulates:**
@@ -143,24 +169,3 @@
     - Bending of light: Light rays bend as they pass through a gravitational field. 
     - Gravitational waves: Distortions in spacetime that propagate as ripples, predicted by general relativity. 
     - Black holes: Regions of spacetime where gravity is so strong that nothing, not even light, can escape.
-### **Practical Strategies**
-- We respond well to visual progress.
-	- `Reason for tracking everything.`
-	- ex. Visual progress like moving paper clips for a certain number of tasks you need to do per day.
-		- **Use this for Job applications.**
-- **Using a Paper Planner**
-	- This is my preferred method for time tracking, reviewing my day, and planning new strategies to improve my schedules.
-	- Use this instead of an online calendar.
-- **Make a daily habit to come up with one business idea per day.**
-- **The Human brain is drawn to progress:**
-	- Likely because in the wild it is hard to track.
-	- This is why using a Habit Tracker or in general tracking anything that **needs** to be done is so impactful.
-		- Running a company or group use measurement to define goals and people will meet them.
-- **Finding what I am naturally good at and excites me is the easy way to develop good habits and see progress.**
-	- We all naturally have habits that work best with our personalities.
-	- We enjoy what comes naturally to us because it reduces friction.
-		- Regardless anything can be done.
-	- **Where do I get greater returns than the average person?**
-#### **Quotes**
-- `The first mistake isn’t what breaks you, it’s when you let yourself get into a downward spiral.`
-- I would rather force myself to learn accountability (owning the situation regardless of the circumstances) than to sign contracts with others for my behavior.
