@@ -2,6 +2,7 @@
 *****
 * Business is delivering the same result but in a better way (faster, cheaper, better)
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 * Value creation comes from solving real problems people are willing to pay for
 
 ## Core Principles
@@ -32,6 +33,8 @@
 ## Growth Patterns
 * [Note patterns of successful business growth]
 =======
+=======
+>>>>>>> Stashed changes
 
 ## **Building**
 * In building a company the idea of "company culture" is predatory.
@@ -48,5 +51,9 @@
 		* Commitment would rise along with knowledge across the company on how to actually get things done.
 		* Individual metrics would be far higher than average.
 		* You could also explain and structure the company under a quarter schedule far better.
+<<<<<<< Updated upstream
+	* Assign team leaders to manage and discuss the ideas with employees and how to apply this in their daily lives.
+>>>>>>> Stashed changes
+=======
 	* Assign team leaders to manage and discuss the ideas with employees and how to apply this in their daily lives.
 >>>>>>> Stashed changes
