@@ -1,0 +1,1 @@
+* There is no limit to an individuals energy *only* if they determine so.

@@ -26,6 +26,11 @@
         
 - Removed and blocked all forms of social media and adult content from iPhone.
     
+* **Using a Paper Planner**
+    
+    - Preferred method for time tracking, reviewing my day, and planning new strategies.
+        
+    - Use this instead of an online calendar.
 
 ### [Habit Science]
 *****
@@ -132,14 +137,6 @@
         
         - **Use this for Job applications.**
             
-- **Using a Paper Planner**
-    
-    - Preferred method for time tracking, reviewing my day, and planning new strategies.
-        
-    - Use this instead of an online calendar.
-        
-- **Make a daily habit to come up with one business idea per day.**
-    
 - **Finding what I am naturally good at and excites me is the easy way to develop good habits and see progress.**
     
     - We naturally have habits that fit our personalities.
