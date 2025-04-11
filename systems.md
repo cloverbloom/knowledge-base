@@ -7,7 +7,6 @@
 
 - Each quarter includes a 13th Week for review, consolidation, celebration, and reset.
   - Identify shortcomings and celebrate accomplishments.
-  - [ ] Create a checklist for each 13th Week (include in 12-W Tracker).
 
 ---
 
@@ -20,7 +19,7 @@
 - Define and track a **Weekly Score** to measure performance objectively.
 - Shorter timeframes (12 weeks) increase predictability and clarity of goals.
 - Be exceptional at 1-3 things rather than mediocre at many.
-  - `"To write a great book, you must first become the book." – Naval Ravikant`
+- `"To write a great book, you must first become the book." – Naval Ravikant`
 
 ### [Vision & Planning]
 *****
