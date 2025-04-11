@@ -93,7 +93,13 @@
 
 * **Weekly Score**
 
-	* 
+	* Compiled from Sleep Score, Habit Score, and Task Score
+	  
+		* This is already automatically calculated in the 12-W Tracker
+	  
+	* Your Weekly Score does not care how you felt and only considers execution
+	  
+	* The 12-W Tracker considers your goals for Sleep, Habit, and Tasks and will provide you the **Minimum Good Week Score** indicating if your week was successful or not
 
 ### [The 3 Principles]
 *****
@@ -165,35 +171,73 @@
 	   
 	3. **Tasks** are third priority - give yourself energy then focus that energy into a plan
 
+### [Defining your Vision (Pre-Planning)]
+*****
+1. Evaluate the following aspects of your life right now (rate 1-10)
+
+	1. Spiritual
+	
+	 2. Relationships (friends and romantic)
+	
+	 3. Business
+	
+	 4. Family
+	
+	 5. Community
+	
+	 6. Physical
+	
+	 7. Personal
+
+* Include notes for each as to why and what could improve each categories score
+
+2. Define a specific vision for all 3 time-horizons: (should be big enough to be uncomfortable)
+   
+	* 12 Weeks from now
+	  
+	* 1-3 Years from now
+	  
+	* 5-10 Years from now
+	  
+	* Take some time to do this
+	  
+		* What does your daily life look like?
+		  
+		* How do you spend your time each day?
+		  
+		* Where do you live?
+		  
+		* What is your family life like?
+		  
+		* How much money do you make?
+		  
+		* What do you do for work?
+		  
+		* How often do you work?
+  
 ### [Planning a 12-Week Year]
 *****
-1. Establish a specific vision for all 3 time-horizons: (should be big enough to be uncomfortable)
-   
-		* 12 Weeks from now()
+1. Set **Sleep Goals**
+
+	* It is highly recommended to get a Biometrics tracker that can effectively record your Sleep
 	  
-		* 1-3 Years from now()
+	* Set a predefined goal for Sleeping so many hours and minutes each night
+	  
+	* **Whoop** is highly recommended as it is extremely consistent and proactive with helping you get to bed on-time, understanding when you may need more sleep, and telling you overall how long you need to sleep each night
+   
+2. Set **Health Habits** that you will track for the 12-Week Year (**Health Tracker**)
+
+	* These will be habits that you complete every single day
+	  
+	* ex. "Meditate for 10 Minutes", "Complete Scheduled Workout", "Stretch for 20 minutes"
+	  
+	* These should **not** be tasks towards your Weekly Tasks and 12-W Goals
 	
-		* 5-10 Years from now()
-	  
-	* Evaluate the following aspects of your life right now (rate 1-10)
-	  
-		 1. Spiritual
-		
-		 2. Relationships (friends and romantic)
-		
-		 3. Business
-		
-		 4. Family
-		
-		 5. Community
-		
-		 6. Physical
-		
-		 7. Personal
-	  
-2. Set **Sleep Goals**
-   
-3. Set **Health Habits** that you will track for the 12-Week Year (**Health Tracker**)
+		* These are habits directly related to maintaining your Health only
+		  
+			* If you Sleep correctly and maintain your Health it is scientifically proven you will be happier and will help to meet two of your three overall life criteria
+			  
+				* ex. Health, Happiness, and Wealth
    
 4. Identify 1-3 Goals for your 12-Week Year (these must be the top priorities for your vision)
    
@@ -204,8 +248,14 @@
 	* From this list compile a chronological order of the least number of tasks to complete each Goal
 	  
 	* These become your **Weekly Tasks** to complete each week
+	  
+	* These need to be leading indicators when executed instead of lagging
 
-### [Adjusting your Plans]
+6. At the start of each week take 60 minutes to plan performance blocks and daily strategies
+   
+	* We don't track these in the health tracker because they need to be dynamic and responsive to your leading indicators
+
+### [Adjusting your 12-Week Plan]
 *****
 * `“A good plan violently executed now is better than a perfect plan executed at some indefinite time in the future.” - George S. Patton Jr.`
   
@@ -214,5 +264,71 @@
 	* Accept this reality and continually review your plan
 	  
 	* This is reasoning for leading indicators to provide real-time information
-	  
+
 * Only adjust your plan from market feedback (ex. what was actually executed upon)
+
+* Don't abandon your plan when you score poorly one week
+
+	* Don't be afraid to confront your poor performance
+	  
+	* You likely are not currently performance at a 85% execution rate
+	  
+		* If you were, you wouldn't need this system
+		  
+		* Accept that you will have week that are failures
+		  
+		* Growth is in facing the facts about your ability to perform
+
+### [Planning your Week]
+*****
+* We track habits daily because that represents execution towards a health centered goal
+  
+* This should take 15-30 minutes to do properly
+  
+* We track execution for weekly tasks because you will inevitably miss days
+  
+	* Tracking weekly gives you the flexibility to not be hard on yourself day-to-day but still create a massive sense of urgency per week
+	  
+	* Remember that importance is Health, Happiness, and Wealth in that order
+	  
+		* Regardless what tasks were executed upon you **must** maintain Health and Happiness
+
+* At a consistent and predetermined time each week you need to fully plan your week to the best of your ability in writing (I do mine first thing on Sundays after Church)
+  
+	* I use a physical planner and encourage the process of cementing your plan on paper
+	  
+	* This is where you plan your execution strategies for each goal to achieve your current Weekly Task and stay on schedule for your 12-W Goal
+	  
+	* Intentionally plan your performance blocks for each workday including:
+	  
+		* Strategic Blocks
+		  
+		* Buffer Blocks
+		
+		* Breakout Blocks
+	
+	* Define how you will measure your execution strategies a clear way
+	  
+		* ex. Apply to 2 jobs per day (with cover letter unique to job description) for a max of 10 job applications per week.
+		  
+		* These need to be dynamic to each week so we do not track them for the entire 12-W Year like we do for the **Habit Tracker**
+		  
+1. Choose your predetermined time to plan each week to meet your current Weekly Task
+   
+2. Identify measurable execution strategies that when completed will likely meet your Task
+   
+	* Create a measurable leading execution strategy for each goal
+   
+3. Include performance blocks such as Strategic, Buffer, and Breakout blocks each day
+
+	* 3 hours for Strategic and Breakout and 30 minutes for Buffer blocks
+   
+4. Add in as many predictable or pre-committed events to plan performance around them
+
+	* Understand that you are predicting your week to the best of your ability
+	  
+	* You will likely need to change your plan as the Week continues
+	  
+	* All that matters is completing your Weekly Task for each 12-W Goal
+   
+5. Write down or print your Weekly Plan and keep in an easily seen spot all week
