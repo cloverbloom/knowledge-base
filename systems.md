@@ -19,6 +19,10 @@
 - Define and track a **Weekly Score** to measure performance objectively.
 - Shorter timeframes (12 weeks) increase predictability and clarity of goals.
 - Be exceptional at 1-3 things rather than mediocre at many.
+- Weaknesses rarely become strengths; consistently leveraging your strengths yields the greatest returns.
+- Choose to spend time on activities that generate the highest payoffs.
+- Everything requires sacrifice; comfort is often the first thing you must sacrifice.
+- "Eventually everyone sits down at a banquet of consequences."
 - `"To write a great book, you must first become the book." – Naval Ravikant`
 
 ### [The 3 Principles]
@@ -59,6 +63,8 @@
   
 * `"All my life I wanted to be somebody. Now I see I should have been more specific."`
   
+* Review your vision daily to maintain emotional investment in your goals.
+* Clearly define 1-3 core capabilities that align with your strengths and interests for sustained motivation and performance.
 * Ultimately this book is not revolutionary -
   
 	* **it is simply presenting things you already know in a way that you cannot ignore**
@@ -73,6 +79,10 @@
 - Clearly define measurable execution strategies and performance blocks:
   - Strategic, Buffer, and Breakout blocks.
 - Include predictable events and commitments to realistically structure your week.
+- Never start a week without a clear weekly plan.
+- Weekly planning should include measurable execution strategies and clearly defined performance blocks.
+- Understand you likely cannot finish everything planned; prioritize effectively.
+- Use a physical planner to reinforce accountability and visibility of tasks.
 - Keep your weekly plan visible and accessible throughout the week.
 
 ### [Execution System]
@@ -85,6 +95,10 @@
   
 * You are always most effective when present (mediation is very important for this)
   
+* Spend 8am-12pm daily on focused performance blocks.
+* Initially schedule breakout blocks monthly, then transition to weekly once consistent.
+* Strategic blocks are your most important activities; schedule them consistently each week.
+* Avoid deferring today's tasks to tomorrow; this habit undermines execution.
 * `"The whole is greater than the sum of the parts."` (must do all aspects)
 
 ### [Measurement & Accountability]
@@ -97,6 +111,9 @@
 
 * Hold a weekly accountability meeting to review progress and adjust plans
   
+* Action occurs when your stated intentions outweigh hidden intentions; evaluate the true cost of your actions.
+* Trust is lost when commitments are not met; accountability starts with personal ownership.
+* Never wait for external circumstances to change; proactively manage your accountability.
 * `"Value the outcome over your comfort. Always take the leap of faith."`
   
 * With a minimum 85% execution rate (on time) you are likely to meet your goals
@@ -153,6 +170,8 @@
 
 * `"Don't be fair weather anything."`
 
+* Recognize and manage emotional tension as deadlines approach; turning back is not an option.
+* Maintain consistency, especially during the middle weeks when motivation wanes.
 * `"Excellence is not an act. It is a way of being."`
 
 ### [Control Time Use]
@@ -179,6 +198,20 @@
 	  
 	* Breakout Blocks - 3 hours per day for scheduled time away from work to maintain
 
+* Interruptions cost significant productivity; it takes approximately 15 minutes to regain focus after each distraction.
+* Follow the Model Work Week:
+  1. Review previous week (15 min)
+  2. Schedule one 3 hour strategic block per week
+  3. Schedule 1-2 buffer blocks daily
+  4. Schedule one 3 hour breakout block per week (one per month until you are on schedule)
+  5. Schedule remaining important weekly activities
+  6. Include personal tasks
+  7. Plan on paper with proper buffers and timing
+* Strategic block agenda:
+  1. Reconnect with vision (5-10 min)
+  2. Review metrics and indicators
+  3. Identify breakdowns
+  4. Work on plan tactics
 * Studies show that proper planning can reduce time to complete a task by up to 20%
 
 
@@ -293,5 +326,8 @@
 		  
 		* Accept that you will have week that are failures
 		  
+		* Regularly adjust your plan based on actual execution feedback, not assumptions.
+		* Accept that not all planned tasks will be completed; focus on critical actions and adjust accordingly.
+		* The process of execution is more important than immediate results; build the habit of consistent execution.
 		* Growth is in facing the facts about your ability to perform
 
