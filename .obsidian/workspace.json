@@ -11,10 +11,14 @@
             "id": "e62739b34b112433",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "systems.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "systems"
             }
           }
         ]
@@ -166,15 +170,16 @@
   },
   "active": "e62739b34b112433",
   "lastOpenFiles": [
+    "system-notes.md",
+    "system-sections.md",
+    "systems.md",
+    "habits.md",
     "personality.md",
     "spirituality.md",
-    "systems.md",
     "business.md",
     "ideas.md",
     "material.md",
     "philosophy.md",
-    "habits.md",
-    "habit-notes.md",
     "Ideas.md"
   ]
 }
