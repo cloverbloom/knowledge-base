@@ -21,6 +21,28 @@
 - Be exceptional at 1-3 things rather than mediocre at many.
 - `"To write a great book, you must first become the book." – Naval Ravikant`
 
+### [The 3 Principles]
+*****
+* The 3 principles are:
+  
+	* (i) **accountability** (the willingness to take full ownership for your actions and results regardless of your circumstances), 
+	  
+	* (ii) **commitment** (doing whatever it takes to keep the promises you’ve made to yourself and to others)
+	  
+	* (iii) **greatness in the moment** (making the countless decisions to take critical action even if you don’t feel like it, and immersing yourself fully in the present)
+
+### [The 5 Disciplines]
+*****
+* (iv) **vision** - Clearly define what you want to achieve
+
+* (v) **planning** - Create specific, actionable 12-week plans
+
+* (vi) **process Control** - Establish consistent routines and systems
+
+* (vii) **measurement** - Track and score your execution
+
+* (viii) **time Use** - Focus on high-value activities and block distractions
+
 ### [Vision & Planning]
 *****
 * Create a compelling vision that defines your long-term aspirations and desired future
@@ -40,6 +62,18 @@
 * Ultimately this book is not revolutionary -
   
 	* **it is simply presenting things you already know in a way that you cannot ignore**
+
+### [Planning Your Week]
+
+- Weekly planning should take 15-30 minutes.
+- Track habits daily (health-focused) and tasks weekly (goal-focused).
+- Prioritize Health, Happiness, and Wealth—in that order.
+- Schedule a consistent weekly planning session (e.g., Sunday morning).
+- Use a physical planner to reinforce commitment and visibility.
+- Clearly define measurable execution strategies and performance blocks:
+  - Strategic, Buffer, and Breakout blocks.
+- Include predictable events and commitments to realistically structure your week.
+- Keep your weekly plan visible and accessible throughout the week.
 
 ### [Execution System]
 *****
@@ -147,15 +181,6 @@
 
 * Studies show that proper planning can reduce time to complete a task by up to 20%
 
-### [Prioritization]
-*****
-* Priorities in execution:
-
-	1. **Sleep** is the highest priority - without energy you won't get anything done
-	   
-	2. **Health** is second priority - focuses the body and mind (**Health Tracker**)
-	   
-	3. **Tasks** are third priority - give yourself energy then focus that energy into a plan
 
 ### [Defining your Vision (Pre-Planning)]
 *****
@@ -236,6 +261,16 @@
 5. Weekly planning (60 minutes each week):
    - Plan performance blocks and daily strategies dynamically based on leading indicators.
 
+### [Prioritization]
+*****
+* Priorities in execution:
+
+	1. **Sleep** is the highest priority - without energy you won't get anything done
+	   
+	2. **Health** is second priority - focuses the body and mind (**Health Tracker**)
+	   
+	3. **Tasks** are third priority - give yourself energy then focus that energy into a plan
+
 ### [Adjusting your 12-Week Plan]
 *****
 * `“A good plan violently executed now is better than a perfect plan executed at some indefinite time in the future.” - George S. Patton Jr.`
@@ -260,14 +295,3 @@
 		  
 		* Growth is in facing the facts about your ability to perform
 
-### [Planning Your Week]
-
-- Weekly planning should take 15-30 minutes.
-- Track habits daily (health-focused) and tasks weekly (goal-focused).
-- Prioritize Health, Happiness, and Wealth—in that order.
-- Schedule a consistent weekly planning session (e.g., Sunday morning).
-- Use a physical planner to reinforce commitment and visibility.
-- Clearly define measurable execution strategies and performance blocks:
-  - Strategic, Buffer, and Breakout blocks.
-- Include predictable events and commitments to realistically structure your week.
-- Keep your weekly plan visible and accessible throughout the week.
