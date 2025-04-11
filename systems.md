@@ -1,39 +1,26 @@
-### [My 12-W System]
-*****
-- Q1: Dec 28th to Mar 29th
+# [My 12-W System]
 
-* Q2: Mar 30th to Jun 28th
+- **Q1:** Dec 28th to Mar 29th  
+- **Q2:** Mar 30th to Jun 28th  
+- **Q3:** Jun 29th to Sep 27th  
+- **Q4:** Sep 28th to Dec 27th  
 
-* Q3: Jun 29th to Sep 27th
+- Each quarter includes a 13th Week for review, consolidation, celebration, and reset.
+  - Identify shortcomings and celebrate accomplishments.
+  - [ ] Create a checklist for each 13th Week (include in 12-W Tracker).
 
-* Q4: Sep 28th to Dec 27th
-
-* Includes 13th Week for action review, consolidation, celebration and reset
-
-	* Identify any shortcomings during this period and celebrate what was accomplished
-	  
-	- [ ] Create a checklist for each 13th Week (include in 12-W Tracker)
+---
 
 # [The 12-W Year]
+
 ### [Core Concepts]
----
-* Redefine a "year" as 12 weeks instead of 12 months to create urgency and improve execution
 
-* Annualized thinking leads to procrastination; 12-week thinking creates focus and urgency
-
-* Define and measure a **Weekly Score** to accurately measure your performance weekly
-
-* Traditionally annualized plans (12 months) involve a high degree of uncertainty and are objective based
-
-	* Shortening the time frame to 12 weeks increases the predictability and allows you to set proper goals and strategies (ex. start with verb then explicitly list required action)
-	  
-	* Allows you to better plan and develop certainty in the outcome
-
-* Be great at 1-3 things instead of mediocre at many things
-
-	* `"To write a great book, you must first become the book." –Naval Ravikant`
-	  
-		* This is a system to maximize my personal leverage
+- Redefine a "year" as 12 weeks to create urgency and improve execution.
+- Annualized thinking leads to procrastination; 12-week thinking creates focus and urgency.
+- Define and track a **Weekly Score** to measure performance objectively.
+- Shorter timeframes (12 weeks) increase predictability and clarity of goals.
+- Be exceptional at 1-3 things rather than mediocre at many.
+  - `"To write a great book, you must first become the book." – Naval Ravikant`
 
 ### [Vision & Planning]
 *****
@@ -243,17 +230,12 @@
    
 	* If you hit your goal - what would be different?
    
-5. Spend 20 minutes per Goal to identify a number of weekly strategies that guarantee your goal
-   
-	* From this list compile a chronological order of the least number of tasks to complete each Goal
-	  
-	* These become your **Weekly Tasks** to complete each week
-	  
-	* These need to be leading indicators when executed instead of lagging
+4. For each goal, spend 20 minutes identifying weekly strategies:
+   - List minimal, chronological tasks required to achieve each goal.
+   - Tasks must be leading indicators.
 
-6. At the start of each week take 60 minutes to plan performance blocks and daily strategies
-   
-	* We don't track these in the health tracker because they need to be dynamic and responsive to your leading indicators
+5. Weekly planning (60 minutes each week):
+   - Plan performance blocks and daily strategies dynamically based on leading indicators.
 
 ### [Adjusting your 12-Week Plan]
 *****
@@ -279,56 +261,14 @@
 		  
 		* Growth is in facing the facts about your ability to perform
 
-### [Planning your Week]
-*****
-* We track habits daily because that represents execution towards a health centered goal
-  
-* This should take 15-30 minutes to do properly
-  
-* We track execution for weekly tasks because you will inevitably miss days
-  
-	* Tracking weekly gives you the flexibility to not be hard on yourself day-to-day but still create a massive sense of urgency per week
-	  
-	* Remember that importance is Health, Happiness, and Wealth in that order
-	  
-		* Regardless what tasks were executed upon you **must** maintain Health and Happiness
+### [Planning Your Week]
 
-* At a consistent and predetermined time each week you need to fully plan your week to the best of your ability in writing (I do mine first thing on Sundays after Church)
-  
-	* I use a physical planner and encourage the process of cementing your plan on paper
-	  
-	* This is where you plan your execution strategies for each goal to achieve your current Weekly Task and stay on schedule for your 12-W Goal
-	  
-	* Intentionally plan your performance blocks for each workday including:
-	  
-		* Strategic Blocks
-		  
-		* Buffer Blocks
-		
-		* Breakout Blocks
-	
-	* Define how you will measure your execution strategies a clear way
-	  
-		* ex. Apply to 2 jobs per day (with cover letter unique to job description) for a max of 10 job applications per week.
-		  
-		* These need to be dynamic to each week so we do not track them for the entire 12-W Year like we do for the **Habit Tracker**
-		  
-1. Choose your predetermined time to plan each week to meet your current Weekly Task
-   
-2. Identify measurable execution strategies that when completed will likely meet your Task
-   
-	* Create a measurable leading execution strategy for each goal
-   
-3. Include performance blocks such as Strategic, Buffer, and Breakout blocks each day
-
-	* 3 hours for Strategic and Breakout and 30 minutes for Buffer blocks
-   
-4. Add in as many predictable or pre-committed events to plan performance around them
-
-	* Understand that you are predicting your week to the best of your ability
-	  
-	* You will likely need to change your plan as the Week continues
-	  
-	* All that matters is completing your Weekly Task for each 12-W Goal
-   
-5. Write down or print your Weekly Plan and keep in an easily seen spot all week
+- Weekly planning should take 15-30 minutes.
+- Track habits daily (health-focused) and tasks weekly (goal-focused).
+- Prioritize Health, Happiness, and Wealth—in that order.
+- Schedule a consistent weekly planning session (e.g., Sunday morning).
+- Use a physical planner to reinforce commitment and visibility.
+- Clearly define measurable execution strategies and performance blocks:
+  - Strategic, Buffer, and Breakout blocks.
+- Include predictable events and commitments to realistically structure your week.
+- Keep your weekly plan visible and accessible throughout the week.
