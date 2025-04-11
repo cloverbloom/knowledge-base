@@ -303,6 +303,8 @@
 	2. **Health** is second priority - focuses the body and mind (**Health Tracker**)
 	   
 	3. **Tasks** are third priority - give yourself energy then focus that energy into a plan
+	* Anything accomplished was prioritized; anything not accomplished was not a priority.
+	* Prioritize difficult tasks over busy work to improve efficiency and effectiveness.
 
 ### [Adjusting your 12-Week Plan]
 *****
