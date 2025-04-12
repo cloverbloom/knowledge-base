@@ -305,19 +305,18 @@ Follow these steps to create an effective 12-week plan:
    - Plan performance blocks and daily strategies based on leading indicators
    - Adjust as needed based on your execution data
 
-### [Prioritization]
-*****
-* Priorities in execution:
+### Prioritization
 
-	1. **Sleep** is the highest priority - without energy you won't get anything done
-	   
-	2. **Health** is second priority - focuses the body and mind (**Health Tracker**)
-	   
-	3. **Tasks** are third priority - give yourself energy then focus that energy into a plan
+Effective prioritization ensures you focus on what matters most:
 
-* Anything accomplished was prioritized; anything not accomplished was not a priority
-  
-* Prioritize difficult tasks over busy work to improve efficiency and effectiveness
+- **Hierarchy of Priorities**:
+  1. **Sleep** is the highest priority - without energy you won't accomplish anything
+  2. **Health** is second priority - focuses the body and mind (use your **Health Tracker**)
+  3. **Tasks** are third priority - first build energy, then direct that energy into your plan
+
+- Remember that anything accomplished was prioritized; anything not accomplished was not truly a priority
+- Focus on difficult, high-impact tasks rather than busy work to improve efficiency and effectiveness
+- Be honest with yourself about what you're actually prioritizing based on your actions, not intentions
 
 ### [Adjusting your 12-Week Plan]
 *****
