@@ -2,22 +2,21 @@
 
 ## Table of Contents
 1. [Introduction to the 12-Week System](#introduction-to-the-12-week-system)
-2. [Quarterly Structure](#quarterly-structure)
-3. [Book Summary](#book-summary)
-4. [Core Concepts](#core-concepts)
-5. [The 3 Principles](#the-3-principles)
-6. [The 5 Disciplines](#the-5-disciplines)
-7. [Vision and Planning](#vision-and-planning)
+2. [Book Summary](#book-summary)
+3. [Core Concepts](#core-concepts)
+4. [The 3 Principles](#the-3-principles)
+5. [The 5 Disciplines](#the-5-disciplines)
+6. [Vision and Planning](#vision-and-planning)
    - [Defining Your Vision](#defining-your-vision-pre-planning)
    - [Planning a 12-Week Year](#planning-a-12-week-year)
    - [Weekly Planning](#planning-your-week)
-8. [Execution System](#execution-system)
+7. [Execution System](#execution-system)
    - [Measurement and Accountability](#measurement--accountability)
    - [Emotional Cycles](#emotional-cycles)
-9. [Time Management](#time-management)
+8. [Time Management](#time-management)
    - [Control Time Use](#control-time-use)
    - [Prioritization](#prioritization)
-10. [Adjusting Your 12-Week Plan](#adjusting-your-12-week-plan)
+9. [Adjusting Your 12-Week Plan](#adjusting-your-12-week-plan)
 
 ## Introduction to the 12-Week System
 
