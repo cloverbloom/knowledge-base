@@ -1,4 +1,25 @@
-# [My 12-W System]
+# The 12-Week System
+
+## Table of Contents
+1. [Introduction to the 12-Week System](#introduction-to-the-12-week-system)
+2. [Quarterly Structure](#quarterly-structure)
+3. [Book Summary](#book-summary)
+4. [Core Concepts](#core-concepts)
+5. [The 3 Principles](#the-3-principles)
+6. [The 5 Disciplines](#the-5-disciplines)
+7. [Vision and Planning](#vision-and-planning)
+   - [Defining Your Vision](#defining-your-vision-pre-planning)
+   - [Planning a 12-Week Year](#planning-a-12-week-year)
+   - [Weekly Planning](#planning-your-week)
+8. [Execution System](#execution-system)
+   - [Measurement and Accountability](#measurement--accountability)
+   - [Emotional Cycles](#emotional-cycles)
+9. [Time Management](#time-management)
+   - [Control Time Use](#control-time-use)
+   - [Prioritization](#prioritization)
+10. [Adjusting Your 12-Week Plan](#adjusting-your-12-week-plan)
+
+## Introduction to the 12-Week System
 
 - **Q1:** Dec 28th to Mar 29th  
 - **Q2:** Mar 30th to Jun 28th  
