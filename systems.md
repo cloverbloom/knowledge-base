@@ -124,65 +124,47 @@ Effective weekly planning is crucial for 12-week success:
 - Accept that you likely cannot finish everything planned; prioritize effectively
 - Keep your weekly plan visible and accessible throughout the week
 
-### [Execution System]
-*****
-* Focus on lead indicators (actions) rather than lag indicators (results)
+## Execution System
 
-* Implement weekly plans and daily actions to drive consistent progress
+Effective execution is the key to achieving your 12-week goals:
 
-* Execution is a habit where direct measurement of performance is required
-  
-* You are always most effective when present (mediation is very important for this)
-  
-* Spend 8am-12pm daily on focused performance blocks
-  
-* Initially schedule breakout blocks monthly, then transition to weekly once consistent
-  
-* Strategic blocks are your most important activities; schedule them consistently each week
-  
-* Avoid deferring today's tasks to tomorrow; this habit undermines execution
-  
-* `"The whole is greater than the sum of the parts."` (must do all aspects)
+- Focus on lead indicators (actions) rather than lag indicators (results)
+- Implement weekly plans and daily actions to drive consistent progress
+- Treat execution as a habit that requires direct measurement of performance
+- Practice presence and mindfulness (meditation is important for this)
+- Schedule focused performance blocks during your peak productivity hours (8am-12pm recommended)
+- Initially schedule breakout blocks monthly, then transition to weekly once consistent
+- Make strategic blocks your highest priority activities and schedule them consistently
+- Avoid deferring today's tasks to tomorrow; this habit undermines execution
 
-### [Measurement & Accountability]
-*****
-* Accountability is ownership of the outcome regardless of the circumstances
-  
-	* Commitment is agreeing to future accountability
-  
-* Track execution consistently using a weekly scorecard (minimum 85% execution rate)
+> "The whole is greater than the sum of the parts." (You must implement all aspects of the system)
 
-* Hold a weekly accountability meeting to review progress and adjust plans
-  
-* Action occurs when your stated intentions outweigh hidden intentions; evaluate the true cost of your actions
-  
-* Trust is lost when commitments are not met; accountability starts with personal ownership
-  
-* Never wait for external circumstances to change; proactively manage your accountability
-  
-* `"Value the outcome over your comfort. Always take the leap of faith."`
-  
-* With a minimum 85% execution rate (on time) you are likely to meet your goals
-  
-* 60% of breakdowns occur in the execution phase (most likely to fail when actually working)
+### Measurement & Accountability
 
-* **Leading** and **Lagging** indicators:
-  
-	* Leading indicators are measures of progress toward an end result
-	  
-	* Lagging indicators are the end results themselves, representing past performance
-	  
-		* You want to stack leading indicators to give yourself as much game time information as possible
+Measurement and accountability are essential for maintaining focus and progress:
 
-* **Weekly Score**
+- **Accountability**: Taking ownership of outcomes regardless of circumstances
+  - Commitment is agreeing to future accountability
+  - Trust is lost when commitments are not met
+  - Never wait for external circumstances to change; proactively manage your accountability
 
-	* Compiled from Sleep Score, Habit Score, and Task Score
-	  
-		* This is already automatically calculated in the 12-W Tracker
-	  
-	* Your Weekly Score does not care how you felt and only considers execution
-	  
-	* The 12-W Tracker considers your goals for Sleep, Habit, and Tasks and will provide you the **Minimum Good Week Score** indicating if your week was successful or not
+- **Tracking Performance**:
+  - Use a weekly scorecard to track execution (aim for minimum 85% execution rate)
+  - Hold a weekly accountability meeting to review progress and adjust plans
+  - Action occurs when stated intentions outweigh hidden intentions
+  - 60% of breakdowns occur in the execution phase
+
+- **Leading vs. Lagging Indicators**:
+  - Leading indicators: Measures of progress toward an end result
+  - Lagging indicators: End results themselves, representing past performance
+  - Stack leading indicators to give yourself real-time information
+
+- **Weekly Score System**:
+  - Compiled from Sleep Score, Habit Score, and Task Score
+  - Your Weekly Score only considers execution, not how you felt
+  - The 12-W Tracker calculates your **Minimum Good Week Score** to indicate success
+
+> "Value the outcome over your comfort. Always take the leap of faith."
 
 ### [The 3 Principles]
 *****
@@ -195,21 +177,23 @@ Effective weekly planning is crucial for 12-week success:
 	* (iii) **greatness in the moment** (making the countless decisions to take critical action even if you don’t feel like it, and immersing yourself fully in the present)
 
 
-### [Emotional Cycles]
-*****
-* Recognize the three emotional phases in each 12-week period: 
-  
-	* honeymoon, fight-through, and success
+### Emotional Cycles
 
-* Develop strategies to push through the "fight-through" phase when motivation wanes
+Understanding the emotional journey of a 12-week cycle helps maintain momentum:
 
-* `"Don't be fair weather anything."`
+- Recognize the three emotional phases in each 12-week period:
+  - Honeymoon: Initial excitement and motivation
+  - Fight-through: Middle weeks when motivation wanes
+  - Success: Final push and achievement
 
-* Recognize and manage emotional tension as deadlines approach; turning back is not an option
-  
-* Maintain consistency, especially during the middle weeks when motivation wanes.
-  
-* `"Excellence is not an act. It is a way of being."`
+- Develop specific strategies to push through the "fight-through" phase
+- Recognize and manage emotional tension as deadlines approach
+- Maintain consistency, especially during the middle weeks
+- Remember that turning back is not an option
+
+> "Don't be fair weather anything."
+
+> "Excellence is not an act. It is a way of being."
 
 ### [Control Time Use]
 *****
