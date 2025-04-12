@@ -20,18 +20,23 @@
 
 ## Introduction to the 12-Week System
 
+The 12-Week System redefines your "year" to be 12 weeks long instead of 12 months. This creates focus, urgency, and improved execution by shortening your planning horizon.
+
+### Quarterly Structure
 - **Q1:** Dec 28th to Mar 29th  
 - **Q2:** Mar 30th to Jun 28th  
 - **Q3:** Jun 29th to Sep 27th  
 - **Q4:** Sep 28th to Dec 27th  
 
-- Each quarter includes a 13th Week for review, consolidation, celebration, and reset
-  
-	- Identify shortcomings and celebrate accomplishments
+- Each quarter includes a 13th Week for:
+  - Review and assessment
+  - Consolidation of learning
+  - Celebration of achievements
+  - Reset and planning for the next quarter
+
+The 12-Week System creates a sense of urgency that annual planning lacks. With only 12 weeks to achieve your goals, procrastination becomes less likely and focus intensifies.
 
 ---
-
-# [The 12-W Year]
 
 ### [Book Summary]
 *****
