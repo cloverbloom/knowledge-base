@@ -50,27 +50,18 @@ The 12-Week System creates a sense of urgency that annual planning lacks. With o
 
 Turn your organization's idea of a year on its head, and speed your journey to success."
 
-### [Core Concepts]
+## Core Concepts
 
 - Redefine a "year" as 12 weeks to create urgency and improve execution
-  
 - Annualized thinking leads to procrastination; 12-week thinking creates focus and urgency
-  
 - Define and track a **Weekly Score** to measure performance objectively
-  
 - Shorter timeframes (12 weeks) increase predictability and clarity of goals
-  
 - Be exceptional at 1-3 things rather than mediocre at many
-  
 - Weaknesses rarely become strengths; consistently leveraging your strengths yields the greatest returns
-  
 - Choose to spend time on activities that generate the highest payoffs
-  
 - Everything requires sacrifice; comfort is often the first thing you must sacrifice
-  
-- "Eventually everyone sits down at a banquet of consequences."
-  
-- `"To write a great book, you must first become the book." – Naval Ravikant`
+- > "Eventually everyone sits down at a banquet of consequences."
+- > "To write a great book, you must first become the book." – Naval Ravikant
 
 ### [The 3 Principles]
 *****
