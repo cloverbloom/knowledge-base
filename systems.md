@@ -107,32 +107,21 @@ The 5 disciplines that enable effective execution in the 12-Week System are:
   
 	* **it is simply presenting things you already know in a way that you cannot ignore**
 
-### [Planning Your Week]
+### Planning Your Week
 
-- Weekly planning should take 15-30 minutes
-  
+Effective weekly planning is crucial for 12-week success:
+
+- Dedicate 15-30 minutes each week for planning (ideally at a consistent time)
 - Track habits daily (health-focused) and tasks weekly (goal-focused)
-  
 - Prioritize Health, Happiness, and Wealth—in that order
-  
-- Schedule a consistent weekly planning session (e.g., Sunday morning)
-  
 - Use a physical planner to reinforce commitment and visibility
-  
-- Clearly define measurable execution strategies and performance blocks:
-  
-	- Strategic, Buffer, and Breakout blocks
-
+- Define measurable execution strategies and performance blocks:
+  - Strategic blocks (focused work time)
+  - Buffer blocks (administrative tasks)
+  - Breakout blocks (recovery time)
 - Include predictable events and commitments to realistically structure your week
-  
 - Never start a week without a clear weekly plan
-  
-- Weekly planning should include measurable execution strategies and clearly defined performance blocks
-  
-- Understand you likely cannot finish everything planned; prioritize effectively
-  
-- Use a physical planner to reinforce accountability and visibility of tasks
-  
+- Accept that you likely cannot finish everything planned; prioritize effectively
 - Keep your weekly plan visible and accessible throughout the week
 
 ### [Execution System]
@@ -276,87 +265,61 @@ The 5 disciplines that enable effective execution in the 12-Week System are:
 
 * Studies show that proper planning can reduce time to complete a task by up to 20%
 
-### [Defining your Vision (Pre-Planning)]
-*****
-1. Evaluate the following aspects of your life right now (rate 1-10)
+### Defining Your Vision (Pre-Planning)
 
-	1. Spiritual
-	
-	 2. Relationships (friends and romantic)
-	
-	 3. Business
-	
-	 4. Family
-	
-	 5. Community
-	
-	 6. Physical
-	
-	 7. Personal
+Before creating your 12-week plan, define your vision:
 
-* Include notes for each as to why and what could improve each categories score
+1. Evaluate the following aspects of your life (rate 1-10):
+   - Spiritual
+   - Relationships (friends and romantic)
+   - Business
+   - Family
+   - Community
+   - Physical
+   - Personal
 
-2. Define a specific vision for all 3 time-horizons: (should be big enough to be uncomfortable)
-   
-	* 12 Weeks from now
-	  
-	* 1-3 Years from now
-	  
-	* 5-10 Years from now
-	  
-	* Take some time to do this
-	  
-		* What does your daily life look like?
-		  
-		* How do you spend your time each day?
-		  
-		* Where do you live?
-		  
-		* What is your family life like?
-		  
-		* How much money do you make?
-		  
-		* What do you do for work?
-		  
-		* How often do you work?
+   Include notes for each explaining your rating and what could improve each category's score.
+
+2. Define a specific vision for all 3 time-horizons (should be ambitious enough to feel uncomfortable):
+   - 12 Weeks from now
+   - 1-3 Years from now
+   - 5-10 Years from now
+
+   Consider these questions for each time horizon:
+   - What does your daily life look like?
+   - How do you spend your time each day?
+   - Where do you live?
+   - What is your family life like?
+   - How much money do you make?
+   - What do you do for work?
+   - How often do you work?
   
-### [Planning a 12-Week Year]
-*****
+### Planning a 12-Week Year
+
+Follow these steps to create an effective 12-week plan:
+
 1. Set **Sleep Goals**
+   - Use a biometrics tracker to effectively record your sleep
+   - Set a predefined goal for sleeping a specific number of hours each night
+   - Consider using tools like **Whoop** that help with sleep tracking and optimization
 
-	* It is highly recommended to get a Biometrics tracker that can effectively record your Sleep
-	  
-	* Set a predefined goal for Sleeping so many hours and minutes each night
-	  
-	* **Whoop** is highly recommended as it is extremely consistent and proactive with helping you get to bed on-time, understanding when you may need more sleep, and telling you overall how long you need to sleep each night
-   
-2. Set **Health Habits** that you will track for the 12-Week Year (**Health Tracker**)
+2. Set **Health Habits** to track daily during your 12-Week Year
+   - Choose habits you'll complete every single day
+   - Examples: "Meditate for 10 Minutes", "Complete Scheduled Workout", "Stretch for 20 minutes"
+   - These should focus solely on maintaining your health, not your other 12-week goals
+   - Proper sleep and health habits create the foundation for happiness and productivity
 
-	* These will be habits that you complete every single day
-	  
-	* ex. "Meditate for 10 Minutes", "Complete Scheduled Workout", "Stretch for 20 minutes"
-	  
-	* These should **not** be tasks towards your Weekly Tasks and 12-W Goals
-	
-		* These are habits directly related to maintaining your Health only
-		  
-			* If you Sleep correctly and maintain your Health it is scientifically proven you will be happier and will help to meet two of your three overall life criteria
-			  
-				* ex. Health, Happiness, and Wealth
-   
-4. Identify 1-3 Goals for your 12-Week Year (these must be the top priorities for your vision)
-   
-	* If you hit your goal - what would be different?
-   
-5. For each goal, spend 20 minutes identifying weekly strategies:
-   
-	- List minimal, chronological tasks required to achieve each goal.
-	  
-	- Tasks must be leading indicators.
+3. Identify 1-3 Goals for your 12-Week Year
+   - These must be the top priorities for your vision
+   - Ask yourself: "If I hit this goal, what would be different?"
 
-6. Weekly planning (60 minutes each week):
-   
-	- Plan performance blocks and daily strategies dynamically based on leading indicators
+4. For each goal, spend 20 minutes identifying weekly strategies
+   - List minimal, chronological tasks required to achieve each goal
+   - Tasks must be leading indicators (actions, not results)
+
+5. Implement weekly planning (60 minutes each week)
+   - Plan performance blocks and daily strategies based on leading indicators
+   - Adjust as needed based on your execution data
 
 ### [Prioritization]
 *****
