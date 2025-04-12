@@ -73,17 +73,15 @@ Turn your organization's idea of a year on its head, and speed your journey to s
 	  
 	* (iii) **greatness in the moment** (making the countless decisions to take critical action even if you don’t feel like it, and immersing yourself fully in the present)
 
-### [The 5 Disciplines]
-*****
-* (iv) **vision** - Clearly define what you want to achieve
+## The 5 Disciplines
 
-* (v) **planning** - Create specific, actionable 12-week plans
+The 5 disciplines that enable effective execution in the 12-Week System are:
 
-* (vi) **process Control** - Establish consistent routines and systems
-
-* (vii) **measurement** - Track and score your execution
-
-* (viii) **time Use** - Focus on high-value activities and block distractions
+- **Vision**: Clearly define what you want to achieve
+- **Planning**: Create specific, actionable 12-week plans
+- **Process Control**: Establish consistent routines and systems
+- **Measurement**: Track and score your execution
+- **Time Use**: Focus on high-value activities and block distractions
 
 ### [Vision & Planning]
 *****
